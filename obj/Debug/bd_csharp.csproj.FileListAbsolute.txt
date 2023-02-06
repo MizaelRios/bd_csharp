@@ -1,10 +1,11 @@
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\bin\Debug\bd_csharp.exe.config
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\bin\Debug\bd_csharp.exe
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\bin\Debug\bd_csharp.pdb
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\obj\Debug\bd_csharp.csprojAssemblyReference.cache
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\obj\Debug\bd_csharp.Form1.resources
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\obj\Debug\bd_csharp.Properties.Resources.resources
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\obj\Debug\bd_csharp.csproj.GenerateResource.cache
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\obj\Debug\bd_csharp.csproj.CoreCompileInputs.cache
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\obj\Debug\bd_csharp.exe
-C:\Users\mizae\Desktop\Estudos\bd_csharp\bd_csharp\obj\Debug\bd_csharp.pdb
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\bin\Debug\bd_csharp.exe.config
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\bin\Debug\bd_csharp.exe
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\bin\Debug\bd_csharp.pdb
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.csproj.AssemblyReference.cache
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.csproj.SuggestedBindingRedirects.cache
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.Form1.resources
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.Properties.Resources.resources
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.csproj.GenerateResource.cache
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.csproj.CoreCompileInputs.cache
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.exe
+C:\Repositórios\Raizen - Cashlog - Github\bd_csharp\obj\Debug\bd_csharp.pdb
